@@ -1,0 +1,6 @@
+# Ignore large data files
+data.zip
+*.zip
+
+# Ignore large model checkpoint files
+models/checkpoint.data-00000-of-00001
